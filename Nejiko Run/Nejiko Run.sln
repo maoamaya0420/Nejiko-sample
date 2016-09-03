@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{18C492C7-08AB-C29C-4029-E94E1BC74572}") = "Nejiko Run", "Assembly-CSharp.csproj", "{58089CC3-2A7D-CBC1-3EE3-9DACBF06A8E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58089CC3-2A7D-CBC1-3EE3-9DACBF06A8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58089CC3-2A7D-CBC1-3EE3-9DACBF06A8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58089CC3-2A7D-CBC1-3EE3-9DACBF06A8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58089CC3-2A7D-CBC1-3EE3-9DACBF06A8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
