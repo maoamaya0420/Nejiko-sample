@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\NejikoBaseAssets\Script\EnemyPoint.cs" />
      <Compile Include="Assets\NejikoBaseAssets\Script\NejikoController.cs" />
      <Compile Include="Assets\NejikoBaseAssets\Script\SimpleFollow.cs" />
      <Compile Include="Assets\NejikoBaseAssets\Script\StageGenerators.cs" />
