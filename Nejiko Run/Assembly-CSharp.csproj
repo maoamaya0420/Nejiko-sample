@@ -45,8 +45,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\NejikoBaseAssets\Script\EnemyPoint.cs" />
      <Compile Include="Assets\NejikoBaseAssets\Script\NejikoController.cs" />
      <Compile Include="Assets\NejikoBaseAssets\Script\SimpleFollow.cs" />
+     <Compile Include="Assets\NejikoBaseAssets\Script\StageGenerators.cs" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\NejikoBaseAssets\LICENSE.txt" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
